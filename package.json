@@ -1,0 +1,21 @@
+{
+  "name": "lodash_each_dos_example",
+  "version": "1.0.0",
+  "description": "Simple example of potential DOS vulnerability when using _.each on unsanitized user inputs",
+  "main": "express_app.js",
+  "scripts": {
+    "test": "mocha test/test_app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/syrnick/lodash_each_dos_example"
+  },
+  "keywords": [
+    "lodash",
+    "underscore",
+    "dos",
+    "example"
+  ],
+  "author": "Alexander Sorokin <syrnick@gmail.com> (https://airtable.com/)",
+  "license": "ISC"
+}
